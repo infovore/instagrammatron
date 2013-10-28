@@ -39,6 +39,8 @@ gem 'pg'
 # pagination
 gem 'kaminari'
 
+gem 'rmagick'
+
 # heroku nonsense
 group :production do
   gem 'rails_12factor'
